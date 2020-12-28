@@ -1,0 +1,12 @@
+@import "./partials/brand/brand.css";
+@import "./partials/main-navigation/main-navigation.css";
+
+.header-wrapper {
+  @apply
+    min-w-full
+    flex flex-row flex-nowrap
+    text-gray-800
+    bg-white
+    border-b border-gray-800;
+}
+

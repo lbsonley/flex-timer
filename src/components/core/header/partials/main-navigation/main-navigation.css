@@ -1,0 +1,15 @@
+.main-navigation-wrapper {
+  @apply
+    flex flex-row flex-nowrap
+    flex-grow
+    justify-end;
+}
+
+.main-navigation-list {
+  @apply
+    flex flex-row flex-nowrap;
+}
+
+.main-navigation-item {
+  @apply flex items-center px-3;
+}

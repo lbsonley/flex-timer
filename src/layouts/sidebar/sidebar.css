@@ -1,0 +1,23 @@
+.sidebar-wrapper {
+  @apply container w-full flex flex-row min-h-screen min-w-full;
+}
+
+.sidebar-menu {
+  @apply
+    container
+    py-4 px-5
+    bg-gray-800
+    text-white;
+    width: 20%;
+}
+
+.sidebar-item {
+  @apply py-2 pl-4 font-bold;
+}
+
+.sidebar-content {
+  @apply
+    container py-4 px-6
+    bg-gray-50;
+  width: 80%;
+}

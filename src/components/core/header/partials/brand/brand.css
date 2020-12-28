@@ -1,0 +1,14 @@
+.brand-wrapper {
+  @apply
+    flex flex-row flex-nowrap
+    flex-grow-0
+    items-center;
+}
+
+.brand-logo {
+  @apply mr-3;
+}
+
+.brand-title {
+  @apply leading-none py-0;
+}

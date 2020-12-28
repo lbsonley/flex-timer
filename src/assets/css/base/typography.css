@@ -1,0 +1,23 @@
+@layer base {
+  h1 {
+    @apply text-3xl pb-4;
+  }
+  h2 {
+    @apply text-2xl pb-4;
+  }
+  h3 {
+    @apply text-lg pb-3;
+  }
+  p, span {
+    @apply text-base pb-3 leading-7;
+  }
+  small {
+    @apply text-sm;
+  }
+  strong {
+    @apply font-bold;
+  }
+  li {
+    @apply text-base leading-7
+  }
+}
