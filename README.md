@@ -1,15 +1,9 @@
-# Webpack React Starter
+# Flex Timer
 
-**_Because Create React App is too opaque_**
+**_Because people should be able to work when they want_**
 
-## Features
+## What is it?
 
-* React
-* Tailwind CSS
-* ES Transpilation (Babel)
-* Linting and Code Formatting (ESLint, Prettier)
-* CSS Post Processing & Linting (PostCSS, Stylelint)
+A tool to help teams coordinate and schedule meetings and collaboration while working flexible hours.
 
-## TODO
 
-* Optimized Production Build
